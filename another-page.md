@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-привет!
-## Welcome to another page
+
+## привет!
 
 _yay_
 
-[back](./)
+[назад](./)
