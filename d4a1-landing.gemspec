@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = 'jekyll-theme-dinky'
+  s.name          = 'd4a1-landing'
   s.version       = '0.1.1'
   s.license       = 'CC0-1.0'
-  s.authors       = ['Diana Mounter', 'GitHub, Inc.']
-  s.email         = ['opensource+jekyll-theme-dinky@github.com']
+  s.authors       = ['soulaway', 'dev4any1.net']
+  s.email         = ['dev4anyone@gmail.com']
   s.homepage      = 'https://github.com/pages-themes/dinky'
-  s.summary       = 'Dinky is a Jekyll theme for GitHub Pages'
+  s.summary       = 'dev4any1 landing pages'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
