@@ -7,4 +7,8 @@ layout: default
 
 ### Core environments and tools
 
-![envs-tools](https://github.com/dev4any1/landing/blob/master/assets/images/envs-tools.jpg)
+![envs-tools](../images/envs-tools.jpg)
+
+### Инструменты и среды:
+
+![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/envs-tools.jpg)
