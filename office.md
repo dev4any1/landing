@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Welcome to the dev4any1 office
+# Welcome to the dev4any1 office
 
 * * *
 
@@ -13,7 +13,7 @@ layout: default
 > I'd like to ask how may I help, but you might need to know what we can do, so please hold on a little, we will be ready to meet you soon.
 >
 
-_the office is currently unavaliable_
+_the office is under construction_
 
 * * *
 
