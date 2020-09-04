@@ -3,6 +3,6 @@ description:  WEB laboratory
 show_downloads: false
 google_analytics: false
 theme: d4a1-landing
-github.repository_url: https://github.com/dev4any1
+github_repository_url: https://github.com/dev4any1
 office_url: http://dev4any1.net/office.html
 lab_url: http://dev4any1.net/lab.html
