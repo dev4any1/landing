@@ -29,7 +29,18 @@ layout: default
 
 ## You know we are:
 
-Community of software engineers, developers, quality assurance, network engineers and project management. We created the unique coaching program that will speed you up in software development process. This will allow you to become an agile team member, have practice experience with top industry technology stack
+Community of software engineers, developers, quality assurance, network engineers and project management.
+ 
+Our members were contributing in
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.png) | good swedish fish | nice  |
+| out of stock | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.png) | nice  |
+| ok           | good `oreos`      | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.png) |
+| ok           | good `zoute` drop | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.png) |
+
+We created the unique coaching program that will speed you up in software development process. This will allow you to become an agile team member, have practice experience with top industry technology stack
 
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/envs-tools-slim.jpg)
 
