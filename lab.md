@@ -33,12 +33,13 @@ Community of software engineers, developers, quality assurance, network engineer
  
 Our members were contributing in
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.png) | good swedish fish | nice  |
-| out of stock | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.png) | nice  |
-| ok           | good `oreos`      | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.png) |
-| ok           | good `zoute` drop | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.png) |
+|:-------------|:-----------------|
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg) | [Zodiac systems](https://www.zodiacsystems.com/) | US |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg) | [Bison group](https://www.bison-group.com/) | Swiss |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg) | [Luxoft](https://www.luxoft.com/) | Swiss |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/ge.jpg) | [General Electric](https://www.ge.com/) | Fr |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/crossover.jpg) | [Crossover](https://www.crossover.com/) | US |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/upland.jpg) | [Upland](https://uplandsoftware.com/) | US |
 
 We created the unique coaching program that will speed you up in software development process. This will allow you to become an agile team member, have practice experience with top industry technology stack
 
