@@ -33,7 +33,8 @@ Community of software engineers, developers, quality assurance, network engineer
  
 Our members were contributing in
 
-|:-------------|:-----------------|
+||||
+|:-------------|:-------------|:-------------|
 | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg) | [Zodiac systems](https://www.zodiacsystems.com/) | US |
 | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg) | [Bison group](https://www.bison-group.com/) | Swiss |
 | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg) | [Luxoft](https://www.luxoft.com/) | Swiss |
