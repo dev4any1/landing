@@ -35,11 +35,12 @@ We created the unique coaching program that will speed you up in software develo
 
 ## Our members were grown in:
 
-[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg)](https://www.zodiacsystems.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg)](https://www.bison-group.com/)
-
-[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg)](https://www.luxoft.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/ge.jpg)](https://www.ge.com/)
-
-[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/crossover.jpg)](https://www.crossover.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/upland.jpg)](https://uplandsoftware.com/)
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg)](https://www.zodiacsystems.com/)
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg)](https://www.bison-group.com/)
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg)](https://www.luxoft.com/)
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/ge.jpg)](https://www.ge.com/)
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/crossover.jpg)](https://www.crossover.com/)
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/upland.jpg)](https://uplandsoftware.com/)
 
 
 [go back](./)
