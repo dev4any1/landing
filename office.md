@@ -5,15 +5,13 @@ layout: default
 # Welcome to the dev4any1 office
 
 ## manager:
->
-> Greetings! 
+> 
 > Nice to meet you!
-> I'd like to ask how may I help, but you might need to know who we are and how may help you. So please hold on a little, we will be ready to meet you soon!
+> I'd like to ask how may I help, but you might need to know who we are and how may help you. 
+> So please hold on a little, we will be ready to meet you soon!
 >
 
 _We are sorry, the office is under construction_
-
-* * *
 
 ### What we can do best
 
@@ -31,11 +29,9 @@ _We are sorry, the office is under construction_
 <dd>Design of high load/available systems;</dd>
 <dd>Taking care of any kinds and amounts of data;</dd>
 <dt>Software audit</dt>
-<dd>Analysis the holes in a particular piece of software<dd>
+<dd>Analysis the holes in a particular piece of software</dd>
 <dd>Analysis the holes in the company's infrastructure</dd>
 </dl>
-
-* * *
 
 ### We are mighty, cuz we are
 
