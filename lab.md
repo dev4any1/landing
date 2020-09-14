@@ -15,7 +15,6 @@ layout: default
 
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/webhistory.jpg)
 
-* * *
 
 ## I see you are:
 
@@ -25,7 +24,6 @@ layout: default
 
 - You are leader, friendly, kind and clever, you feel bored to do PC routine, you are good in abstract thinking and aware of managing peoples, you have a willing to become a cox project manager.
 
-* * *
 
 ## You know we are:
 
@@ -35,9 +33,12 @@ We created the unique coaching program that will speed you up in software develo
 
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/envs-tools-slim.jpg)
 
-Our members were grown in
+## Our members were grown in:
+
 [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg)](https://www.zodiacsystems.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg)](https://www.bison-group.com/)
+
 [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg)](https://www.luxoft.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/ge.jpg)](https://www.ge.com/)
+
 [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/crossover.jpg)](https://www.crossover.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/upland.jpg)](https://uplandsoftware.com/)
 
 
