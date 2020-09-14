@@ -35,9 +35,7 @@ We created the unique coaching program that will speed you up in software develo
 
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/envs-tools-slim.jpg)
 
-Our members were contributing in
-
-||
+| Our members were contributing in |
 |:-------------|
 | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg) [Zodiac systems](https://www.zodiacsystems.com/)  _US_ |
 | ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg) [Bison group](https://www.bison-group.com/) _Swiss_ |
