@@ -31,20 +31,20 @@ layout: default
 
 Community of software engineers, developers, quality assurance, network engineers and project management.
  
-Our members were contributing in
-
-||||
-|:-------------|:-------------|:-------------|
-| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg) | [Zodiac systems](https://www.zodiacsystems.com/) | US |
-| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg) | [Bison group](https://www.bison-group.com/) | Swiss |
-| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg) | [Luxoft](https://www.luxoft.com/) | Swiss |
-| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/ge.jpg) | [General Electric](https://www.ge.com/) | Fr |
-| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/crossover.jpg) | [Crossover](https://www.crossover.com/) | US |
-| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/upland.jpg) | [Upland](https://uplandsoftware.com/) | US |
-
 We created the unique coaching program that will speed you up in software development process. This will allow you to become an agile team member, have practice experience with top industry technology stack
 
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/envs-tools-slim.jpg)
+
+Our members were contributing in
+
+||
+|:-------------|
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg) [Zodiac systems](https://www.zodiacsystems.com/)  _US_ |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg) [Bison group](https://www.bison-group.com/) _Swiss_ |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg) [Luxoft](https://www.luxoft.com/) _Swiss_ |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/ge.jpg) [General Electric](https://www.ge.com/) _Fr_ |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/crossover.jpg) [Crossover](https://www.crossover.com/) _US_ |
+| ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/upland.jpg) [Upland](https://uplandsoftware.com/) _US_ |
 
 
 [go back](./)
