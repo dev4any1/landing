@@ -36,13 +36,9 @@ We created the unique coaching program that will speed you up in software develo
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/envs-tools-slim.jpg)
 
 Our members were grown in
-[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg)](https://www.zodiacsystems.com/) ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg) [Bison group](https://www.bison-group.com/) _Swiss_
-
->	![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg) \n [Luxoft](https://www.luxoft.com/) _Swiss_
-
-- ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/ge.jpg) \n [General Electric](https://www.ge.com/) _Fr_
-  - ![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/crossover.jpg) \n [Crossover](https://www.crossover.com/) _US_
-    - s![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/upland.jpg) \n [Upland](https://uplandsoftware.com/) _US_
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/zodiac.jpg)](https://www.zodiacsystems.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/bison.jpg)](https://www.bison-group.com/)
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/luxoft.jpg)](https://www.luxoft.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/ge.jpg)](https://www.ge.com/)
+[![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/crossover.jpg)](https://www.crossover.com/) [![](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/contribto/upland.jpg)](https://uplandsoftware.com/)
 
 
 [go back](./)
