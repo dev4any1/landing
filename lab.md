@@ -27,7 +27,12 @@ layout: default
 
 Community of software engineers, developers, quality assurance, network engineers and project management.
  
-We created the unique coaching program that will speed you up in software development process. This will allow you to become an agile team member, have practice experience with top industry technology stack:
+We created the unique coaching program that will speed you up in software development/QA process using most popular stuff:
+
+![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/jjs.jpg)
+
+This will allow you to become an agile team member, have practice experience with top industry technology stack:
+
 
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/envs-tools-slim.jpg)
 
