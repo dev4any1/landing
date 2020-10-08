@@ -8,4 +8,6 @@ layout: default
 
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/borgs.jpg)
 
-## You are going to [get some hands-on] (./lab.html) doing test project from scratch to production in agile collaboration within a team.
+<!--## You are about to find who will [feed that need in software](./office.html).-->
+
+## You are about to [get some hands-on practice](./lab.html). in the world of Java full-stack WEB development
