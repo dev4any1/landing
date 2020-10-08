@@ -15,22 +15,18 @@ _We are sorry, the office is under construction_
 
 ### What we can do best
 
-<dl>
 <dt>Serving your'e business carefully:</dt>
-<dd>Building light java/js projects;</dd>
-<dd>Building the best Agile-teams;</dd>
+<dd>Doing projects in time;</dd>
+<dd>Building of the agile-teams;</dd>
 <dd>Coaching Your employees;</dd>
 <dt>Transparent software development:</dt>
 <dd>Full-cycle development;</dd>
 <dd>Flexible and simple CI/CD;</dd>
 <dd>Networking and cloud operations;</dd>
-<dd>Software security;</dd>
 <dd>Design of sweet UI looking at modern UX;</dd>
 <dd>Design of high load/available systems;</dd>
 <dd>Taking care of any kinds and amounts of data;</dd>
 <dt>Software audit</dt>
-<dd>Analysis the holes in a particular piece of software</dd>
-<dd>Analysis the holes in the company's infrastructure</dd>
 </dl>
 
 ### We are mighty, cuz we are

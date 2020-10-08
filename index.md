@@ -8,4 +8,4 @@ layout: default
 
 ![envs-tools](https://raw.githubusercontent.com/dev4any1/landing/master/assets/images/borgs.jpg)
 
-## You are going to [get some hands-on] (./ lab.html) doing test project from scratch to production in agile collaboration within a team.
+## You are going to [get some hands-on] (./lab.html) doing test project from scratch to production in agile collaboration within a team.
